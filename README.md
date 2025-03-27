@@ -1,5 +1,5 @@
 # DirectX12
-### What Difference are DirectX12, OpenGL and Vulkan? (+ OpenCL)
+### What is the Difference among DirectX12, OpenGL and Vulkan? (+ OpenCL)
 - - -
 * DirectX : [NAMUWIKI](https://namu.wiki/w/DirectX) / [WIKIPEDIA](https://ko.wikipedia.org/wiki/DirectX)
 * OpenGL : [NAMUWIKI](https://namu.wiki/w/OpenGL) / [WIKIPEDIA](https://ko.wikipedia.org/wiki/OpenGL)
